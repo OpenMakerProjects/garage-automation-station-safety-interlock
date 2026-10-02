@@ -1,0 +1,19 @@
+{
+  "id": 49,
+  "title": "Garage Automation Station Safety Interlock",
+  "repository_slug": "garage-automation-station-safety-interlock",
+  "category": "Smart Home",
+  "platform": "Arduino Nano 33 IoT",
+  "platform_family": "arduino",
+  "difficulty": "Intermediate",
+  "estimated_hours": 20,
+  "connectivity": "Wi-Fi",
+  "components": [
+    "relay module"
+  ],
+  "scope": "Build a smart home prototype that uses relay module to stop unsafe actions automatically. Include setup instructions, a circuit diagram, tested firmware, and sample output.",
+  "key_deliverable": "Safety Interlock demonstration with repeatable test steps",
+  "mode": "safety_latch",
+  "entrypoint": "firmware/garage-automation-station-safety-interlock/garage-automation-station-safety-interlock.ino",
+  "roadmap_source": "openmaker-2100-project-roadmap.xlsx"
+}
